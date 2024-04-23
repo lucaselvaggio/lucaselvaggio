@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-i'm junior android developer, curious to expand my knowledge and skills. i also enjoy wireframing, ui, ux and design in general.
+i'm Luca from Italy, i'm junior android developer, curious to expand my knowledge and skills. i also enjoy wireframing, ui, ux and design in general.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaselvaggio)](https://github.com/anuraghazra/github-readme-stats)
